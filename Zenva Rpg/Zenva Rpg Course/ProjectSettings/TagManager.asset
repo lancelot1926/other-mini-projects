@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TargetEnemyUnit
+  - PlayerUnit
+  - EnemyUnit
+  - DeadUnit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 3147614227
+    locked: 0
+  - name: Roads
+    uniqueID: 1975450325
+    locked: 0
+  - name: Player
+    uniqueID: 1003108191
+    locked: 0
+  - name: Trees And Walls
+    uniqueID: 2531750141
+    locked: 0
+  - name: Frotn Walls
+    uniqueID: 3913579663
+    locked: 0
+  - name: Houses Etc
+    uniqueID: 2772739401
+    locked: 0
+  - name: Effects
+    uniqueID: 3473815979
+    locked: 0
+  - name: HUD
+    uniqueID: 1674327665
+    locked: 0
